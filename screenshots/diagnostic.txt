@@ -1,0 +1,12 @@
+2023-10-19 15:42:25.532  4933-4933  MainActivity            edu.uw.ischool.rraftery.activityspy  I  onCreate event fired
+2023-10-19 15:42:25.533  4933-4933  MainActivity            edu.uw.ischool.rraftery.activityspy  I  onCreate passed param: null
+2023-10-19 15:42:25.750  4933-4933  MainActivity            edu.uw.ischool.rraftery.activityspy  I  onStart event fired
+2023-10-19 15:42:25.789  4933-4933  MainActivity            edu.uw.ischool.rraftery.activityspy  I  onResume event fired
+2023-10-19 15:44:38.599  4933-4933  MainActivity            edu.uw.ischool.rraftery.activityspy  I  onPause event fired
+2023-10-19 15:44:38.723  4933-4933  MainActivity            edu.uw.ischool.rraftery.activityspy  I  onStop event fired
+2023-10-19 15:45:01.023  4933-4933  MainActivity            edu.uw.ischool.rraftery.activityspy  I  onStart event fired
+2023-10-19 15:45:01.033  4933-4933  MainActivity            edu.uw.ischool.rraftery.activityspy  I  onResume event fired
+2023-10-19 15:45:16.586  4933-4933  MainActivity            edu.uw.ischool.rraftery.activityspy  I  onPause event fired
+2023-10-19 15:45:17.519  4933-4933  MainActivity            edu.uw.ischool.rraftery.activityspy  I  onStop event fired
+2023-10-19 15:45:17.521  4933-4933  MainActivity            edu.uw.ischool.rraftery.activityspy  I  onDestroy event fired
+2023-10-19 15:45:17.521  4933-4933  MainActivity            edu.uw.ischool.rraftery.activityspy  E  We're going down, Captain!
